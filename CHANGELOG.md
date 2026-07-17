@@ -18,7 +18,7 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
-## [0.90.0] - 2026-07-16
+## [Unreleased] 
 
 ### Added 
 - Placeholder for upcoming features and enhancements. 
@@ -27,8 +27,28 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 - Placeholder for bug fixes and security updates. 
 
 ### Changed 
-- Alignment of GitHub actions to new organisation.
 - Placeholder for changes to existing functionality. 
+
+---
+
+## [0.90.0] – YYYY-MM-DD 
+
+### Initial Public Release (Pre-Stable) 
+
+This is the first public release of this repository under NDTP's open-source governance model. 
+Since this release is **pre-1.0.0**, changes may still occur that are **not fully backward-compatible**. 
+
+#### Initial Features 
+- Key functionality for [feature/module name]. 
+- Implementation of [API/component name]. 
+- Documentation and onboarding guidance. 
+
+#### Known Limitations 
+- Some components are subject to change before `1.0.0`. 
+- APIs may evolve based on partner feedback and internal testing. 
+
+---
+
 ## [0.90.1] – YYYY-MM-DD 
 
 ### Fixed 
