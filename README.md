@@ -48,7 +48,7 @@ Before using this repository, ensure you have the following dependencies install
 
 ### 1. Create new Repository from Template
 
-Create a new repository from template using the `archetypes` as the template repository
+Create a new repository from this template.
 
 ### 2. Update Repository Name
 
