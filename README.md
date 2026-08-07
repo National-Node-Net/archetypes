@@ -50,7 +50,7 @@ Before using this repository, ensure you have the following dependencies install
 
 Create a new repository from template using the `archetypes` as the template repository
 
-### 3. Update Repository Name
+### 2. Update Repository Name
 
 All references throughout the files, that refer to the repository name `archetypes` should be replaced with the new target repository name
 
