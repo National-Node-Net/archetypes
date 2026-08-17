@@ -56,14 +56,14 @@ All references throughout the files, that refer to the repository name `archetyp
 
 ### 3. Update/Remove all GUIDANCE/EXAMPLE sections
 
-Throughout all the `.md` files are some `GUIDANCE` blocks sometimes also including `EXAMPLE` sections similar that below. 
+Throughout all the `.md` files are some `GUIDANCE` blocks sometimes also including `EXAMPLE` sections similar to that below. 
 
 ```md
 <!-- 
 GUIDANCE: 
  -->
 ```
-These blocks don't appear on previews, the are just intended to help support updating the markdown file content when you first create a new repository and should be fully removed after content has been updated. 
+These blocks don't appear on previews, they are just intended to help support updating the markdown file content when you first create a new repository and should be fully removed after content has been updated. 
 
 ### 4. Pull Requests
 
