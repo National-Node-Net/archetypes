@@ -1,3 +1,5 @@
+![OSPO compliance](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/archetypes/ospo-compliance.svg) ![Days since last commit to develop branch](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/archetypes/develop-activity.svg) ![Last checked](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/archetypes/last-checked.svg)
+
 # README  
 
 **Repository:** `[archetypes]`  
